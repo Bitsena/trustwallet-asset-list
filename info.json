@@ -1,0 +1,11 @@
+{
+    "name": "Bitsena",
+    "symbol": "BTS",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "BTS (Bitsena Token) is a utility token that powers the Bitsena ecosystem, a platform that democratizes Bitcoin mining through low-energy devices functioning as a digital lottery.",
+    "website": "https://bitsena.com.br/",
+    "explorer": "https://bscscan.com/token/0x24BC580f39b328BA5896498415f74BBC1009AAe6",
+    "status": "active",
+    "id": "0x24BC580f39b328BA5896498415f74BBC1009AAe6"
+}
